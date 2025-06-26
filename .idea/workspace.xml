@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c93edff7-a000-4fa8-a306-8a1dd79e8d6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nopcommerce.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_pages/Login_Admin_Page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cases/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cases/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cases/test_admin_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utillties/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configurations/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utillties/read_property.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/test_admin_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_admin_login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +38,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,11 +65,23 @@
       <updated>1750232004836</updated>
       <workItem from="1750232006105" duration="17674000" />
       <workItem from="1750752301480" duration="14958000" />
-      <workItem from="1750832069380" duration="2691000" />
+      <workItem from="1750832069380" duration="5976000" />
+      <workItem from="1750924337234" duration="13569000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
