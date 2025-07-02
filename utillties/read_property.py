@@ -1,7 +1,7 @@
 import configparser
 config = configparser.RawConfigParser()
 config.read(".\\configurations\\config.ini")
-
+#to ready the config file
 class Read_Config:
     @staticmethod
     def get_admin_url():
@@ -19,3 +19,4 @@ class Read_Config:
     def get_invalid_user():
         invalid_username = config.get('admin login info', 'invalid_username')
         return invalid_username
+

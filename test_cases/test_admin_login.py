@@ -52,6 +52,22 @@ class Test_01_Admin_Login:
             self.driver.save_screenshot(".\\screenshots\\test_invalid_admin_login.png")
             self.driver.close()
             assert False
+    # def test_logout(self, setup):
+    #     self.driver = setup
+    #     self.driver.get(self.admin_page_url)
+    #     self.admin_lp = Login_Admin_Page(self.driver)
+    #     self.admin_lp.enter_username(self.username)
+    #     self.admin_lp.enter_password(self.password)
+    #     self.admin_lp.click_login()
+    #     self.admin_lp.click_logout()
+    #     act_logout = self.driver.find_element(By.XPATH, "//button[@type='submit']").text
+    #     if act_logout == "LOG IN":
+    #         assert True
+    #         self.driver.close()
+    #     else:
+    #         self.driver.save_screenshot(".\\screenshots\\test_logout.png")
+    #         self.driver.close()
+    #         assert False
 
 
 
