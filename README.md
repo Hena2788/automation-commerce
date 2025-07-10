@@ -40,16 +40,20 @@ allure-pytest
 ## 📁 Project Structure
 
 ```
-├── tests/                  # All test cases go here
-│   └── test_login.py
-├── pages/                  # Page Object Model classes
-│   └── login_page.py
-├── utils/                  # Helper functions and Excel utilities
-│   └── excel_reader.py
-├── reports/                # HTML or Allure reports generated here
-├── conftest.py             # Hooks and fixtures for Pytest
-├── pytest.ini              # Pytest configurations
-├── requirements.txt
+├── bases_pages/                  
+│   └── Login_Admin_page.py
+├── configurations/                  
+│   └── config.ini
+├── logs/                  
+│   └── nopcommerce.log
+├── reports/                
+├── screenshots/           
+├── test_cases/
+     └── conftest.py
+     └── test_admin_login.py         
+├── utillties/
+    └── custom_logger.py
+    └── read_property.py
 └── README.md
 ```
 
