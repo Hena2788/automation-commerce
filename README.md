@@ -1,8 +1,3 @@
-Here's a professional and complete `README.md` you can use for your Selenium automation project with `pytest` and all the required tools:
-
----
-
-````markdown
 # Selenium Automation Framework with Pytest
 
 This project is a test automation framework built using **Selenium WebDriver** and **Pytest**. It supports test case execution, HTML reporting, parallel execution, Excel-based data handling, and advanced reporting using Allure.
