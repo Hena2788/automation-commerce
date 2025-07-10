@@ -1,0 +1,28 @@
+2025-07-09 14:38:37:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-07-09 14:38:40:INFO:*****************Test_01_Admin_Login****************
+2025-07-09 14:38:40:INFO:*****************verification of admin login page title***********
+2025-07-09 14:38:56:INFO:*****************test_title_verification title matched**************
+2025-07-09 14:38:59:INFO:****************test_valid_admin_login started**************
+2025-07-09 14:39:11:INFO:*************Dashboard text found*************
+2025-07-09 14:39:15:INFO:*************test_invalid_admin_login started**************
+2025-07-09 14:39:22:INFO:***************test_invalid_admin_login error message is matched**************
+2025-07-10 11:33:22:INFO:*****************Test_01_Admin_Login****************
+2025-07-10 11:33:22:INFO:*****************verification of admin login page title***********
+2025-07-10 11:33:24:INFO:*****************test_title_verification title matched**************
+2025-07-10 11:33:28:INFO:****************test_valid_admin_login started**************
+2025-07-10 11:33:36:INFO:*************test_invalid_admin_login started**************
+2025-07-10 11:33:39:INFO:***************test_invalid_admin_login error message is matched**************
+2025-07-10 16:15:33:INFO:*****************Test_01_Admin_Login****************
+2025-07-10 16:15:33:INFO:*****************verification of admin login page title***********
+2025-07-10 16:15:35:INFO:*****************test_title_verification title matched**************
+2025-07-10 16:15:37:INFO:****************test_valid_admin_login started**************
+2025-07-10 16:15:50:INFO:*************Dashboard text found*************
+2025-07-10 16:15:51:INFO:*************test_invalid_admin_login started**************
+2025-07-10 16:15:55:INFO:***************test_invalid_admin_login error message is matched**************
+2025-07-10 16:21:24:INFO:*****************Test_01_Admin_Login****************
+2025-07-10 16:21:24:INFO:*****************verification of admin login page title***********
+2025-07-10 16:21:27:INFO:*****************test_title_verification title matched**************
+2025-07-10 16:21:29:INFO:****************test_valid_admin_login started**************
+2025-07-10 16:22:04:INFO:*************Dashboard text found*************
+2025-07-10 16:22:06:INFO:*************test_invalid_admin_login started**************
+2025-07-10 16:22:11:INFO:***************test_invalid_admin_login error message is matched**************
