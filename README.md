@@ -118,17 +118,3 @@ To clean up generated reports:
 
 ```bash
 rm -rf reports/*
-```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-Let me know if you'd like it customized with your GitHub link, your name, or specific instructions for your test suite!
-```
