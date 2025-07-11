@@ -23,7 +23,7 @@ def setup(browser):
     yield driver
     driver.quit()
 
-    # ensure driver closes after test
+# ensure driver closes after test
 #Excluding Custom Parameters from pytest HTML Reports
 #hook for delete/modify environment infor in html report
 def pytest_configure(config):

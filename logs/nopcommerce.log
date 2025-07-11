@@ -86,3 +86,10 @@
 2025-07-11 12:06:54:INFO:*************Dashboard text found*************
 2025-07-11 12:06:58:INFO:*************test_invalid_admin_login started**************
 2025-07-11 12:07:02:INFO:***************test_invalid_admin_login error message is matched**************
+2025-07-11 14:56:26:INFO:*****************Test_01_Admin_Login****************
+2025-07-11 14:56:26:INFO:*****************verification of admin login page title***********
+2025-07-11 14:56:28:INFO:*****************test_title_verification title matched**************
+2025-07-11 14:56:32:INFO:****************test_valid_admin_login started**************
+2025-07-11 14:56:42:INFO:*************Dashboard text found*************
+2025-07-11 14:56:46:INFO:*************test_invalid_admin_login started**************
+2025-07-11 14:56:48:INFO:***************test_invalid_admin_login error message is matched**************
