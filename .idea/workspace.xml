@@ -7,6 +7,7 @@
     <list default="true" id="c93edff7-a000-4fa8-a306-8a1dd79e8d6c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/nopcommerce.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/nopcommerce.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_cases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +75,7 @@
       <workItem from="1752057489204" duration="10441000" />
       <workItem from="1752134180282" duration="11989000" />
       <workItem from="1752215167910" duration="1905000" />
-      <workItem from="1752217187808" duration="2904000" />
+      <workItem from="1752217187808" duration="7466000" />
     </task>
     <servers />
   </component>

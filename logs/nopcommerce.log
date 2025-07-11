@@ -66,3 +66,23 @@
 2025-07-11 10:47:48:INFO:*************Dashboard text found*************
 2025-07-11 10:47:50:INFO:*************test_invalid_admin_login started**************
 2025-07-11 10:47:53:INFO:***************test_invalid_admin_login error message is matched**************
+2025-07-11 11:43:33:INFO:*****************Test_01_Admin_Login****************
+2025-07-11 11:43:33:INFO:*****************verification of admin login page title***********
+2025-07-11 11:43:44:INFO:*****************test_title_verification title matched**************
+2025-07-11 11:43:46:INFO:****************test_valid_admin_login started**************
+2025-07-11 11:45:20:INFO:*************Dashboard text found*************
+2025-07-11 11:45:22:INFO:*************test_invalid_admin_login started**************
+2025-07-11 11:45:26:INFO:***************test_invalid_admin_login error message is matched**************
+2025-07-11 11:49:55:INFO:*****************Test_01_Admin_Login****************
+2025-07-11 11:49:55:INFO:*****************verification of admin login page title***********
+2025-07-11 11:50:03:INFO:*****************test_title_verification title matched**************
+2025-07-11 11:50:05:INFO:****************test_valid_admin_login started**************
+2025-07-11 11:52:11:INFO:*************test_invalid_admin_login started**************
+2025-07-11 11:52:14:INFO:***************test_invalid_admin_login error message is matched**************
+2025-07-11 12:05:23:INFO:*****************Test_01_Admin_Login****************
+2025-07-11 12:05:23:INFO:*****************verification of admin login page title***********
+2025-07-11 12:05:26:INFO:*****************test_title_verification title matched**************
+2025-07-11 12:05:30:INFO:****************test_valid_admin_login started**************
+2025-07-11 12:06:54:INFO:*************Dashboard text found*************
+2025-07-11 12:06:58:INFO:*************test_invalid_admin_login started**************
+2025-07-11 12:07:02:INFO:***************test_invalid_admin_login error message is matched**************
