@@ -19,6 +19,7 @@ def setup(browser):
     else:
         raise ValueError("browser must be 'chrome' or 'firefox' or 'edge'")
     return driver
+
     # ensure driver closes after test
 
 

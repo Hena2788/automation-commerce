@@ -8,8 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/nopcommerce.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/nopcommerce.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_cases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cases/test_admin_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_admin_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utillties/custom_logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/utillties/custom_logger.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,9 @@
       <workItem from="1751523439205" duration="625000" />
       <workItem from="1751626943192" duration="5805000" />
       <workItem from="1752057489204" duration="10441000" />
-      <workItem from="1752134180282" duration="9034000" />
+      <workItem from="1752134180282" duration="11989000" />
+      <workItem from="1752215167910" duration="1905000" />
+      <workItem from="1752217187808" duration="2904000" />
     </task>
     <servers />
   </component>
